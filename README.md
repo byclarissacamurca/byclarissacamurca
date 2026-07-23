@@ -1,7 +1,7 @@
 <div align="center">
 
 # Clarissa Camurça
-<img src="https://github.com/byclarissacamurca/byclarissacamurca/blob/main/moji1-removebg-preview.png" alt="Descrição" width="15%">
+<img src="https://github.com/byclarissacamurca/byclarissacamurca/blob/main/moji1-removebg-preview.png" alt="Descrição" width="12%">
 
 <br>
 
@@ -9,45 +9,28 @@
 
 <br>
 
-Construindo interfaces que as pessoas entendem sem precisar de manual.
-
-<br>
-
 </div>
 
 ---
 
-### Sobre
+## Sobre
 
 Engenheira de Software e desenvolvedora na prática, com foco em front-end. Trabalho com sistemas internos que precisam ser usados todos os dias por pessoas reais, isso me ensinou que usabilidade não é enfeite, é requisito.
 
 Atualmente pesquiso sobre confiabilidade da informação e experiência do usuário em sistemas web na era da IA generativa. 
 
-### Stack
+## Stacks
+<p align="center">
+<img src="https://github.com/byclarissacamurca/byclarissacamurca/blob/main/carbon.svg" alt="Descrição" width="650">
+</p>
 
-```js
-import Desenvolvedor from "byclarissacamurca";
-
-class Skills extends Desenvolvedor {
-  linguagens = ["JavaScript"];
-  bibliotecas = ["React"];
-  frameworks = ["Vue.js"];
-}
-```
-
-### Atividade
+## Atividade
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=byclarissacamurca&hide_border=true&background=00000000&stroke=d2d2d7&ring=6e6e73&fire=B5728A&currStreakLabel=6e6e73&sideLabels=86868b&currStreakNum=6e6e73&sideNums=B5728A&dates=a1a1a6" width="440" />
 
 </div>
-
-<br>
-
-### Projeto Destaque
-
-**Vitae** — Plataforma que gera e organiza currículo de uma jeito fácil e prático.
 
 <br>
 

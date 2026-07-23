@@ -1,7 +1,6 @@
 <div align="center">
 
 # Clarissa Camurça
-<img src="https://github.com/byclarissacamurca/byclarissacamurca/blob/main/moji1-removebg-preview.png" alt="Descrição" width="12%">
 
 <br>
 
@@ -46,7 +45,7 @@ Atualmente pesquiso sobre confiabilidade da informação e experiência do usuá
 </p>
 
 <br>
-
-<sub>São Luís, Maranhão</sub>
+<div align="center">
+<sub>São Luís, Maranhão, Brasil</sub>
 
 </div>

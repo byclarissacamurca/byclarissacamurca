@@ -1,6 +1,7 @@
 <div align="center">
 
 # Clarissa Camurça
+<img src="https://github.com/byclarissacamurca/byclarissacamurca/blob/main/moji1-removebg-preview.png" alt="Descrição" width="15%">
 
 <br>
 
@@ -24,12 +25,14 @@ Atualmente pesquiso sobre confiabilidade da informação e experiência do usuá
 
 ### Stack
 
-```
-Front-end     Vue.js · React · TypeScript · JavaScript
-IA            Claude Code · Codex
-Estilo        HTML · CSS · Bootstrap · Figma
-Back-end      Python · SQL
-Fluxo         Git · Scrum · Kanban
+```js
+import Desenvolvedor from "byclarissacamurca";
+
+class Skills extends Desenvolvedor {
+  linguagens = ["JavaScript"];
+  bibliotecas = ["React"];
+  frameworks = ["Vue.js"];
+}
 ```
 
 ### Atividade

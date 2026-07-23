@@ -1,4 +1,4 @@
-<div align="left>
+<div align="left">
 
 <sub>OLÁ, EU SOU A</sub>
 
@@ -7,12 +7,9 @@
 **Desenvolvedora Front-End** &nbsp;·&nbsp; vibe coder ✦
 
 <br>
-
 Construo interfaces limpas e faço as ideias ganharem vida na tela.<br>
 Curiosa por natureza, movida por bom design e por código que flui.
-
 </div>
-
 <br>
 
 ### Tecnologias & Ferramentas

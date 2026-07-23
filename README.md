@@ -4,13 +4,12 @@
 
 # Clarissa Camurça
 
-**Desenvolvedora Front-End** &nbsp;·&nbsp; vibe coder ✦
+**Desenvolvedora Front-End** ✦
 
 <br>
 Construo interfaces limpas e faço as ideias ganharem vida na tela.<br>
 Curiosa por natureza, movida por bom design e por código que flui.
 </div>
-<br>
 
 ### Tecnologias & Ferramentas
 
@@ -25,7 +24,6 @@ Curiosa por natureza, movida por bom design e por código que flui.
 ![Claude Code](https://img.shields.io/badge/Claude_Code-1d1d1f?style=flat&logo=anthropic&logoColor=D97757)
 ![Codex](https://img.shields.io/badge/Codex-1d1d1f?style=flat&logo=openai&logoColor=white)
 
-<br>
 
 ### Onde me encontrar
 

@@ -44,6 +44,16 @@ Atualmente pesquiso sobre confiabilidade da informação e experiência do usuá
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/byclarissacamurca"><img src="https://cdn.simpleicons.org/github/808080" height="60" /></a>&nbsp;&nbsp;
+  <a href="mailto:byclarissa@gmaill.com"><img src="https://cdn.simpleicons.org/gmail/808080" height="60" /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/5599991812607"><img src="https://cdn.simpleicons.org/whatsapp/808080" height="60" /></a>
+  <a href=""></a>
+</p>
+
+
+<br>
+
 <sub>São Luís, Maranhão</sub>
 
 </div>

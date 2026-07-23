@@ -54,7 +54,7 @@ Fluxo         Git · Scrum · Kanban
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/byclarissacamurca) · [E-mail](mailto:byclarissacamurca@gmail.com)
+[LinkedIn](https://linkedin.com/in/claricamurca) · [E-mail](mailto:byclarissacamurca@gmail.com)
 
 <br>
 
